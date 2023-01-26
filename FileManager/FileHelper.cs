@@ -43,7 +43,7 @@
 
             if (this.Lines.Count == 0)
             {
-                throw new EmptyFileException();
+                throw new EmptyFileException();                
             }
         }
 
